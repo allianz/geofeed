@@ -7,7 +7,6 @@
 #
 # Format: ip_prefix,alpha2code,region,city,postal_code
 #
-# ip_prefix,alpha2code,region,city,postal_code
 91.206.86.0/23,PL
 103.233.172.0/22,SG
 103.233.172.0/23,AU
