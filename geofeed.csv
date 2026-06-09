@@ -3,7 +3,7 @@
 # https://www.rfc-editor.org/rfc/rfc8805
 #
 # Maintained by: Allianz Technology SE — Network Engineering
-# License: CC0 1.0 Universal (Public Domain)
+# License: MIT License
 #
 # Format: ip_prefix,alpha2code,region,city,postal_code
 #
