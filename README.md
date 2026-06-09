@@ -58,4 +58,4 @@ This feed is maintained by **Allianz Technology SE — IP Services Team**. Only 
 
 ## License
 
-This data is released under the [CC0 1.0 Universal (Public Domain Dedication)](LICENSE). You are free to copy, modify, distribute, and use the data for any purpose without restriction.
+This data is released under the [MIT License)](LICENSE). You are free to copy, modify, distribute, and use the data for any purpose without restriction.
