@@ -1,7 +1,18 @@
-Allianz Geofeed
-Copyright 2024 Allianz Technology SE
+=================================================================================
+GEOFEED
+Copyright 2026 The GEOFEED Authors
 
-This data is published under CC0 1.0 Universal (Public Domain Dedication).
-See the LICENSE file for details.
+Code in this repository is licensed under the MIT License.
+Documentation in this repository is licensed under CC BY 4.0.
+A copy of the MIT license is available in the LICENSE file or at:
+https://github.com/allianz/geofeed/blob/main/LICENSE
 
-Maintained by: Allianz Technology SE — IP Services Team @Allianz/AGN-IPSERVICES-GEOFEED-MGMT
+"Allianz" and the Allianz logo are trademarks of Allianz SE and are not covered 
+by these licenses.
+=================================================================================
+
+
+Third-Party Components
+-------------------------
+
+This repository does not include any third-party source code components.
