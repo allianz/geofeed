@@ -8,9 +8,19 @@ This repository contains only IP geolocation data. There is no software, executa
 
 If you identify an IP prefix that is mapped to an incorrect geographic location, please report it publicly via a [GitHub issue](https://github.com/Allianz/geofeed/issues/new?template=incorrect-mapping.md) using the provided template. This is the preferred and fastest channel for data corrections.
 
-## Sensitive Reports
+## Reporting a Vulnerability
 
-If your concern involves information that should not be disclosed publicly — for example, questions about specific internal IP ranges or allocation details — please raise an issue.
+If you find a security vulnerability, please responsibly disclose it using GitHub's Security Advisory platform. Do not create a public GitHub issue.
+
+1. Go to Security tab of the repository.
+2. Open the Advisories page
+3. Click the button 'Report a vulnerability'
+
+![Open Source at Allianz](https://github.com/allianz/.github/blob/main/img/vulnerability-reporting2.png) 
+
+In addition to reporting through GitHub, please notify our Open Source Program Office (OSPO) by sending an email to [ospo@allianz.com](mailto:ospo@allianz.com).
+
+Thank you for helping to make this project more secure!
 
 ## Out of Scope
 
