@@ -12,7 +12,7 @@ If you identify an IP prefix that is mapped to an incorrect geographic location,
 
 If you find a security vulnerability, please responsibly disclose it using GitHub's Security Advisory platform. Do not create a public GitHub issue.
 
-1. Go to Security tab of the repository.
+1. Go to the Security tab of the repository.
 2. Open the Advisories page
 3. Click the button 'Report a vulnerability'
 
